@@ -1,0 +1,14 @@
+easybg:
+a7e3fe-blau
+fbfea7-gelb
+d2fea7-grün
+feaba7-rot
+
+easyycharts:
+a5fb7f-grün
+fc6861-rot
+
+buttonsclick:
+5fc4f1-blau
+e1e648-gebl
+
