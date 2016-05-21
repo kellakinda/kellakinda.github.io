@@ -31,5 +31,7 @@
         });
     
     $("#result").html("Sie haben " + rightcount + " von " + (wrongcount+rightcount) + " Antworten richtig beantwortet.");
-    
+    $("#backtomain").on("click", function() {
+        window.location("../index.html");
+    });
 </script>
